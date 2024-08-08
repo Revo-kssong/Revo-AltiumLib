@@ -117,6 +117,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CYMAHCEW
 
+[Document5]
+DocumentPath=..\..\01 Business\04 Template\98 Lib\01 Altium Designer\test.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BFRGEAXF
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
